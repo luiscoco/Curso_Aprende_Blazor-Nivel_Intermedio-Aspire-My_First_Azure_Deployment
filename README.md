@@ -16,9 +16,17 @@ https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
 Aspire workload
 
+
+
 Aspire projects templates
 
 Docker Desktop
+
+https://www.docker.com/products/docker-desktop/
+
+![image](https://github.com/user-attachments/assets/ce5589c5-d425-4676-b081-4bdec4bf5323)
+
+![image](https://github.com/user-attachments/assets/3518c90e-bd4c-4b50-bd65-30babd4829ba)
 
 ## 2. How to create the .NET Aspire application with Visual Studio 2022
 
