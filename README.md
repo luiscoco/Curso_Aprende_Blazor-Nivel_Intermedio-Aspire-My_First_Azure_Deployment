@@ -86,17 +86,29 @@ https://chocolatey.org/install
 
 We run Visual Studio and we create a new project
 
-We select the project template
+![image](https://github.com/user-attachments/assets/3b75d258-71b5-4ce7-86da-824661bcc8a2)
+
+We select the project template and press the Next button
+
+![image](https://github.com/user-attachments/assets/06db9e43-832e-49df-8387-0fd7cf3518fb)
 
 We input the project name and location
 
+![image](https://github.com/user-attachments/assets/efd0d3ec-a226-4c13-940c-29716c4ba375)
+
 We review the projec files and folder structure
+
+![image](https://github.com/user-attachments/assets/3a604131-ffb9-4013-a3ca-c742cace4045)
 
 ## 3. How to deploy the application in Azure
 
 We select the Aspire Host project as the StartUp project
 
+![image](https://github.com/user-attachments/assets/90805126-024a-4409-bfa6-0f5ab933f8d1)
+
 We right click on the Aspire Host project and select the option Open in the Solution Explorer
+
+![image](https://github.com/user-attachments/assets/afe10b90-98f9-46f3-978a-f58c10650727)
 
 We reun the command **azd init**
 
