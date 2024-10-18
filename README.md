@@ -2,9 +2,17 @@
 
 ## 1. Prerrequisites
 
-Visual Studio 2022 
+Visual Studio 2022 Preview for .NET 9
 
-.NET 9
+https://visualstudio.microsoft.com/vs/preview/
+
+![image](https://github.com/user-attachments/assets/c7f8d6c2-29af-4147-8f94-7d6e05ab3a74)
+
+.NET 9 SDK 
+
+https://dotnet.microsoft.com/en-us/download/dotnet/9.0
+
+![image](https://github.com/user-attachments/assets/4300fcae-135c-43b0-b407-07e701ccb590)
 
 Aspire workload
 
@@ -12,7 +20,7 @@ Aspire projects templates
 
 Docker Desktop
 
-## 2. How to create the .NET Aspire application with Visual Studio 2022 Community Edition
+## 2. How to create the .NET Aspire application with Visual Studio 2022
 
 
 
