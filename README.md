@@ -1,4 +1,22 @@
-# How to deploy your first .NET Aspire application in Azure cloud
+# How to deploy your first Aspire (.NET9) application in Azure cloud
+
+## 1. Prerrequisites
+
+Visual Studio 2022 
+
+.NET 9
+
+Aspire workload
+
+Aspire projects templates
+
+Docker Desktop
+
+## 2. How to create the .NET Aspire application with Visual Studio 2022 Community Edition
+
+
+
+## 3. How to deploy the application in Azure
 
 ![image](https://github.com/user-attachments/assets/60cc4eb4-b407-4446-9503-6fdff230e8f0)
 
