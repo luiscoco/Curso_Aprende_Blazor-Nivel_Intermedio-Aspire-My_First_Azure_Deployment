@@ -32,6 +32,8 @@ And verify the installation
 dotnet workload list
 ```
 
+![image](https://github.com/user-attachments/assets/49d6c103-3fa9-4cba-a5b8-737f6d7ceaf9)
+
 ### .NET Aspire 9
 
 https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9-release-candidate-1?tabs=windows&pivots=visual-studio
