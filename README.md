@@ -2,25 +2,33 @@
 
 ## 1. Prerrequisites
 
-Visual Studio 2022 Preview for .NET 9
+### Visual Studio 2022 Preview for .NET 9
 
 https://visualstudio.microsoft.com/vs/preview/
 
 ![image](https://github.com/user-attachments/assets/c7f8d6c2-29af-4147-8f94-7d6e05ab3a74)
 
-.NET 9 SDK 
+### .NET 9 SDK 
 
 https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
 ![image](https://github.com/user-attachments/assets/4300fcae-135c-43b0-b407-07e701ccb590)
 
-Aspire workload
+### .NET Aspire 9
 
+https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9-release-candidate-1?tabs=windows&pivots=visual-studio
 
+```
+dotnet new install Aspire.ProjectTemplates::9.0.0-rc.1.24511.1
+```
 
-Aspire projects templates
+or 
 
-Docker Desktop
+```
+dotnet new install Aspire.ProjectTemplates::9.0.0-rc.1.24511.1 --force
+```
+
+### Docker Desktop
 
 https://www.docker.com/products/docker-desktop/
 
