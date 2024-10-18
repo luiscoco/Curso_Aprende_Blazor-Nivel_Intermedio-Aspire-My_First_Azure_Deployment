@@ -2,19 +2,19 @@
 
 ## 1. Prerrequisites
 
-### Install Visual Studio 2022 Preview for .NET 9
+### 1.1. Install Visual Studio 2022 Preview for .NET 9
 
 https://visualstudio.microsoft.com/vs/preview/
 
 ![image](https://github.com/user-attachments/assets/c7f8d6c2-29af-4147-8f94-7d6e05ab3a74)
 
-### Install .NET 9 SDK 
+### 1.2. Install .NET 9 SDK 
 
 https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
 ![image](https://github.com/user-attachments/assets/4300fcae-135c-43b0-b407-07e701ccb590)
 
-### Install .NET Aspire
+### 1.3. Install .NET Aspire
 
 https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/setup-tooling?tabs=windows&pivots=visual-studio
 
@@ -34,7 +34,7 @@ dotnet workload list
 
 ![image](https://github.com/user-attachments/assets/49d6c103-3fa9-4cba-a5b8-737f6d7ceaf9)
 
-### Install .NET Aspire 9
+### 1.4. Install .NET Aspire 9
 
 https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9-release-candidate-1?tabs=windows&pivots=visual-studio
 
@@ -48,7 +48,7 @@ or
 dotnet new install Aspire.ProjectTemplates::9.0.0-rc.1.24511.1 --force
 ```
 
-### Install Docker Desktop
+### 1.5. Install Docker Desktop
 
 https://www.docker.com/products/docker-desktop/
 
@@ -56,11 +56,36 @@ https://www.docker.com/products/docker-desktop/
 
 ![image](https://github.com/user-attachments/assets/3518c90e-bd4c-4b50-bd65-30babd4829ba)
 
-## 2. How to create the .NET Aspire application with Visual Studio 2022
+### 1.6 Install Azure Developer CLI
+
+https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd
+
+![image](https://github.com/user-attachments/assets/b228be8a-96fb-4bce-b083-5dfe8870124f)
+
+Verify the installation running this command
+
+```
+azd version
+```
 
 
+## 2. How to create the Aspire .NET 9 application with Visual Studio 2022
+
+We run Visual Studio and we create a new project
+
+We select the project template
+
+We input the project name and location
+
+We review the projec files and folder structure
 
 ## 3. How to deploy the application in Azure
+
+We select the Aspire Host project as the StartUp project
+
+We right click on the Aspire Host project and select the option Open in the Solution Explorer
+
+We reun the command **azd init**
 
 ![image](https://github.com/user-attachments/assets/60cc4eb4-b407-4446-9503-6fdff230e8f0)
 
