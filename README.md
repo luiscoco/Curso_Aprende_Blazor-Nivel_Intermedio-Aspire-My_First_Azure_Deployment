@@ -20,7 +20,17 @@ https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/setup-tooling?tabs=
 
 ![image](https://github.com/user-attachments/assets/9fd5ee49-7065-4e8e-b206-224e97390641)
 
+or 
 
+```
+dotnet workload install aspire
+```
+
+And verify the installation
+
+```
+dotnet workload list
+```
 
 ### .NET Aspire 9
 
