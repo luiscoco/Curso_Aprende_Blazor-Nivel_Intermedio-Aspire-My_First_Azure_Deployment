@@ -14,6 +14,14 @@ https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
 ![image](https://github.com/user-attachments/assets/4300fcae-135c-43b0-b407-07e701ccb590)
 
+### Install .NET Aspire
+
+https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/setup-tooling?tabs=windows&pivots=visual-studio
+
+![image](https://github.com/user-attachments/assets/9fd5ee49-7065-4e8e-b206-224e97390641)
+
+
+
 ### .NET Aspire 9
 
 https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9-release-candidate-1?tabs=windows&pivots=visual-studio
