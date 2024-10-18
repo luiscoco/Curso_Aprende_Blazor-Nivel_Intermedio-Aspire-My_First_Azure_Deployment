@@ -60,7 +60,17 @@ https://www.docker.com/products/docker-desktop/
 
 https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd
 
-![image](https://github.com/user-attachments/assets/b228be8a-96fb-4bce-b083-5dfe8870124f)
+To install with **PowerShell** run this command
+
+```powershell
+powershell -ex AllSigned -c "Invoke-RestMethod 'https://aka.ms/install-azd.ps1' | Invoke-Expression"
+```
+
+For intalling with **choco** run his command
+
+```
+choco install azd
+```
 
 Verify the installation running this command
 
@@ -68,6 +78,9 @@ Verify the installation running this command
 azd version
 ```
 
+**NOTE**: How to install **chocolatey**
+
+https://chocolatey.org/install
 
 ## 2. How to create the Aspire .NET 9 application with Visual Studio 2022
 
